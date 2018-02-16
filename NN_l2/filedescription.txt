@@ -1,0 +1,5 @@
+1. Test_example.m:  final trianing for train test pre-seperated data set
+2.Test_example2.m:  final training for those no predefined test train data set
+3. Test_example_cv.m  crossvalidation for train test pre-seperted data set 
+4.Test_example_cv.m  crossvalidation 
+5.output_L2   output result file with NN+L2
